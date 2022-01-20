@@ -1,0 +1,16 @@
+cradle:
+  multi:
+    # - path: "ignore/"
+    #   config: {cradle: {none: }}
+
+    - path: "src"
+      config: {cradle: {cabal: {component: "lib:lmn"}}}
+
+    - path: "app"
+      config: {cradle: {cabal: {component: "lmn:lmn-exe"}}}
+
+    - path: "test"
+      config: {cradle: {cabal: {component: "lmn:lmn-test"}}}
+
+    - path: "bench"
+      config: {cradle: {cabal: {component: "lmn:lmn-bench"}}}
