@@ -88,6 +88,8 @@ lmn hooks:
 
 Still not sure? Try some `lmn ade`.
 
+Thanks @aidakeifer.
+
 ---
 
 Project skeleton from [template-haskell].
