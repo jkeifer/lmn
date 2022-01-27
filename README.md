@@ -84,7 +84,7 @@ lmn hooks:
 ## `lmn`?
 
 > `lmn` -> lem·on | ˈlemən |
-    A juicy oval citrus yellow when ripe, highly acidic and often sour.
+    A juicy oval citrus, yellow when ripe, highly acidic, and often sour.
 
 Still not sure? Try some `lmn ade`.
 
