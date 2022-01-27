@@ -1,4 +1,6 @@
-import Lib
+module Main where
+
+import Lmn.Cli
 
 main :: IO ()
-main = putStrLn "heyyyyyy"
+main = cli
